@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data
+data/doc2vec
+data/doc2vec*
+data/sdsj_A_test.csv
+data/train_task1_latest.csv
+
 # C extensions
 *.so
 
